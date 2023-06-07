@@ -1,0 +1,8 @@
+C:\Users\Nimap\Desktop\Somanath C# Codes\Stopwatch_Que\Stopwatch_Que\bin\Debug\Stopwatch_Que.exe.config
+C:\Users\Nimap\Desktop\Somanath C# Codes\Stopwatch_Que\Stopwatch_Que\bin\Debug\Stopwatch_Que.exe
+C:\Users\Nimap\Desktop\Somanath C# Codes\Stopwatch_Que\Stopwatch_Que\bin\Debug\Stopwatch_Que.pdb
+C:\Users\Nimap\Desktop\Somanath C# Codes\Stopwatch_Que\Stopwatch_Que\obj\Debug\Stopwatch_Que.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\Somanath C# Codes\Stopwatch_Que\Stopwatch_Que\obj\Debug\Stopwatch_Que.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\Desktop\Somanath C# Codes\Stopwatch_Que\Stopwatch_Que\obj\Debug\Stopwatch_Que.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\Somanath C# Codes\Stopwatch_Que\Stopwatch_Que\obj\Debug\Stopwatch_Que.exe
+C:\Users\Nimap\Desktop\Somanath C# Codes\Stopwatch_Que\Stopwatch_Que\obj\Debug\Stopwatch_Que.pdb
