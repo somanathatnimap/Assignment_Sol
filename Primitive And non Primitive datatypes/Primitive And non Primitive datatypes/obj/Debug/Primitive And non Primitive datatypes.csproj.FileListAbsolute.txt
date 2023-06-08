@@ -1,0 +1,8 @@
+C:\Users\Nimap\Desktop\Somanath C# Codes\Primitive And non Primitive datatypes\Primitive And non Primitive datatypes\bin\Debug\Primitive And non Primitive datatypes.exe.config
+C:\Users\Nimap\Desktop\Somanath C# Codes\Primitive And non Primitive datatypes\Primitive And non Primitive datatypes\bin\Debug\Primitive And non Primitive datatypes.exe
+C:\Users\Nimap\Desktop\Somanath C# Codes\Primitive And non Primitive datatypes\Primitive And non Primitive datatypes\bin\Debug\Primitive And non Primitive datatypes.pdb
+C:\Users\Nimap\Desktop\Somanath C# Codes\Primitive And non Primitive datatypes\Primitive And non Primitive datatypes\obj\Debug\Primitive And non Primitive datatypes.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\Somanath C# Codes\Primitive And non Primitive datatypes\Primitive And non Primitive datatypes\obj\Debug\Primitive And non Primitive datatypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\Desktop\Somanath C# Codes\Primitive And non Primitive datatypes\Primitive And non Primitive datatypes\obj\Debug\Primitive And non Primitive datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\Somanath C# Codes\Primitive And non Primitive datatypes\Primitive And non Primitive datatypes\obj\Debug\Primitive And non Primitive datatypes.exe
+C:\Users\Nimap\Desktop\Somanath C# Codes\Primitive And non Primitive datatypes\Primitive And non Primitive datatypes\obj\Debug\Primitive And non Primitive datatypes.pdb
