@@ -1,0 +1,8 @@
+C:\Users\Nimap\Desktop\Somanath C# Codes\Collections_inC#\Collections_inC#\bin\Debug\Collections_inC#.exe.config
+C:\Users\Nimap\Desktop\Somanath C# Codes\Collections_inC#\Collections_inC#\bin\Debug\Collections_inC#.exe
+C:\Users\Nimap\Desktop\Somanath C# Codes\Collections_inC#\Collections_inC#\bin\Debug\Collections_inC#.pdb
+C:\Users\Nimap\Desktop\Somanath C# Codes\Collections_inC#\Collections_inC#\obj\Debug\Collections_inC#.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\Somanath C# Codes\Collections_inC#\Collections_inC#\obj\Debug\Collections_inC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\Desktop\Somanath C# Codes\Collections_inC#\Collections_inC#\obj\Debug\Collections_inC#.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\Somanath C# Codes\Collections_inC#\Collections_inC#\obj\Debug\Collections_inC#.exe
+C:\Users\Nimap\Desktop\Somanath C# Codes\Collections_inC#\Collections_inC#\obj\Debug\Collections_inC#.pdb
